@@ -10,7 +10,7 @@ Strength of our solution:
 
 ## How it works
 A cube is considered solved when each side is uniquely one color. Our program is given six 9-length strings of randomised characters that represent each face of the rubik's cube. Each letter is capitalised and symbolizes a color. Our solver proceeds to parse the input into two structures: a structure tracking the corners and a structure tracking the middle edges.
-Next, the program uses various algorithms to solve the cube systemically from first layer to second to third layer. Finally, the program output a list of steps that will solve the cube. On average, the program takes approximately 150 moves for a complete solution.
+Next, the program uses various algorithms to solve the cube systemically from first layer to second to third layer. Finally, the program output a list of steps that will solve the cube. On average, the program takes approximately 150 moves for a complete solution
 
 Moves are shown in the following picture:
 
