@@ -17,7 +17,7 @@ Moves are shown in the following picture:
 ![moves](https://raw.githubusercontent.com/mgia/rubix/master/images/image.png)
 
 ## Algorithm
-Our solver breaks down the solution into various algorithms that will solve different parts of the cube. Typically, we solve the edges before solving the corners of each layer.
+This solver breaks down the solution into various algorithms that will solve different parts of the cube. Typically, we solve the edges before solving the corners of each layer.
 
 This is our series of steps:
 
