@@ -1,7 +1,7 @@
 # Rubix Cuber Solver 
 The Rubik's cube is a 3D combination puzzle invented by Ernő Rubik in 1974. This project creates an efficient step-wise implementation of a 3x3 Rubik's cube solver
 
-Strength of our solution:
+Strengths:-
 - Single write call for entire program
 - No cube rotation in solving algorithms
 - Dynamic programming
